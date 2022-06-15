@@ -2,6 +2,8 @@
 
 A Quasar Project
 
+Depends on the [api-crud-vue3](https://github.com/denisgmarques/api-crud-vue3) project
+
 ## Install the dependencies
 ```bash
 yarn
